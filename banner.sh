@@ -1,0 +1,28 @@
+#!/bin/bash {
+        /data/data/com.termux/files/usr/libexec/termux/command-not-fo>
+
+PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m─>
+
+
+clear
+echo -e "Created By DARK-S" | lolcat
+echo "----------------------------" | lolcat
+echo -e "Instagram :@chocolate_boy_03" | lolcat
+echo -e "TELEGRAM - Dark_S_Hacker"  | lolcat
+echo "----------------------------" | lolcat
+echo "
+                  +-+-+-+-+-+-+-+
+                  |W|e|l|c|o|m|e|
+                  +-+-+-+-+-+-+-+ " | lolcat
+echo ""
+clear
+
+# Define your banner text
+banner_text="DARK-S370"
+
+# Generate ASCII art using figlet
+figlet -f slant           "DARK-S" | lolcat
+
+echo -e                "CREATED BY DARK-S" | lolcat
+echo
+      date | lolcat
